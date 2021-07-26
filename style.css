@@ -1,0 +1,25 @@
+body
+{
+background-image: linear-gradient(to right top, #029aff, #01ffea, #04ecba, #0a85aa, #0648ff);
+}
+.container {
+    background-color: burlywood;
+}
+.heading{
+    font-style: oblique;
+    font-size: 23px;
+    width: 100%;
+}
+#cam{
+    width: 300px;
+    height: 350px;
+    border-radius: 20px;
+}
+.name_of_objects{
+    font-style:italic ;
+    color: purple;
+}
+#result_object_name,#result_object_accuracy{
+    font-size: 20px;
+    color: black;
+}
